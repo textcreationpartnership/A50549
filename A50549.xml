@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King and Queen at Hampton-Covrt, July 14th, 1689 by Richard Meggott ...</title>
+            <author>Meggott, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50549</idno>
+            <idno type="STC">Wing M1628</idno>
+            <idno type="STC">ESTC R794</idno>
+            <idno type="EEBO-CITATION">12770167</idno>
+            <idno type="OCLC">ocm 12770167</idno>
+            <idno type="VID">93639</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93639)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King and Queen at Hampton-Covrt, July 14th, 1689 by Richard Meggott ...</title>
+                  <author>Meggott, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half title: Dr. Meggott's sermon preached before the King and Queen.</note>
+                  <note>Advertisement: p. 28.</note>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XII, 5 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93639:1"/>
+            <pb facs="tcp:93639:1"/>
+            <p>A SERMON Preached before the King and Queen AT <hi>HAMPTON-CO<g ref="char:V">Ʋ</g>RT, July</hi> 14<hi rend="sup">th.</hi> 1689.</p>
+            <p>By <hi>RICHARD MEGGOTT</hi> D.D. Dean of <hi>Wincheſter.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by His Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Bennet,</hi> at the <hi>Half-Moon</hi> in St. <hi>Paul</hi>'s Church-yard, 1689.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:93639:2"/>
+            <p>Dr. <hi>MEGGOTT</hi>'s SERMON Preached before the KING and QUEEN.</p>
+            <pb facs="tcp:93639:3"/>
+            <pb facs="tcp:93639:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:93639:4"/>
+            <pb n="1" facs="tcp:93639:4"/>
+            <head>A SERMON Preached Before the KING and QUEEN at <hi>Hampton-Court,</hi> July 14<hi rend="sup">th.</hi> 1689.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROMANS 12.5.</hi>
+                  </bibl>
+                  <p>— We being many are one Body in Chriſt, and every one Members one of another.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>LActantius</hi> will have the word <hi>Religio</hi> to come from <hi>Religo,</hi> which ſignifieth to <hi>bind;</hi> be<g ref="char:EOLhyphen"/>cauſe it <hi>bindeth</hi> and uniteth the Hearts of Men not only to God, but to one another too.</p>
+            <p>This is the Effect of it, in ſome degree, in all the Religions that are: every one looking upon himſelf as having a ſtricter tye on him, towards thoſe of the ſame Religion with him, than he
+<pb n="2" facs="tcp:93639:5"/>hath to the reſt of Mankind. But the Chriſtian Religion may give peculiar Countenance to ſuch a Derivation; the Nature and Principles of it being above any framed and ſuited for promo<g ref="char:EOLhyphen"/>ting it.</p>
+            <p>So it appeared among its Primitive Profeſſors. O! the Entire Agreement! the Tender Affection! the Cordial Amity which the ſenſe of this begot and cheriſhed in them towards one another! No humorous Sects, no angry Factions, no proud cenſorious Schiſms then, to eſtrange, to ſowre, to ſeparate them. <hi>They all continued with one ac<g ref="char:EOLhyphen"/>cord in Prayers and Supplications,</hi> Acts 1.14. <hi>With one accord in one place,</hi> Acts 2.1. <hi>With one accord in the Temple and breaking Bread,</hi> Acts 2.46. Thus it was as long as Sincerity excluded Secular Inte<g ref="char:EOLhyphen"/>reſts, and the Truths of God were unmingled with the Arts of Men.</p>
+            <p>But (alas!) we do not ſo often in the Acts of the Apoſtles read of their <hi>one accord,</hi> as in all Ec<g ref="char:EOLhyphen"/>cleſiaſtical Writers ſince, we do of their fierce and ſcandalous <hi>Diſcords. Diſcords</hi> about <hi>Doctrine, Diſ<g ref="char:EOLhyphen"/>cords</hi> about <hi>Diſcipline, Diſcords</hi> about <hi>Ceremonies:</hi> and where other Countries and Kingdoms have had their Thouſands; we, unhappy we, have had, O that there were no reaſon to add, have, our ten Thouſands.</p>
+            <p>
+               <pb n="3" facs="tcp:93639:5"/>
+All kind of courſes, Chriſtian, and I had like to have ſaid, Unchriſtian, have been taken to put an end to them, but with ſo little effect all, that inſtead of being rooted out by them, they have rather run up to ſeed and multiplied. This were enough to diſhearten from attempting any thing further in it, when all that hath been tryed hath proved ſo unſucceſsful: But Peoples not doing their Duty, is no reaſon why we ſhould ceaſe to tell them of it; whether they will hear, or whe<g ref="char:EOLhyphen"/>ther they will forbear, if we cannot perſwade them, however we muſt diſcharge our ſelves: and that I think we are very particularly obliged to in this Juncture of Time, when Differences can<g ref="char:EOLhyphen"/>not but prove Fatal, as they are Sinful.</p>
+            <p>That which every Man pleadeth for himſelf is <hi>Conſcience,</hi> I am willing to hope it is ſo; for I have ſomething to ſay to that, which I am ſure muſt be of more force to Unite, than any thing that can be alledged is to Divide us: And that is the conſideration of the Sacredneſs and nearneſs of our common relation, both to Chriſt, and among our Selves. It is as unnatural for Chriſtians to quar<g ref="char:EOLhyphen"/>rel, as for the Tongue to rail at the Eye, the Hand to ſcratch the Face, one Foot to kick or tread upon the other; for as the Body is one and
+<pb n="4" facs="tcp:93639:6"/>hath many Members, <hi>ſo we being many are one Body</hi> in <hi>Chriſt, and every one Members one of another.</hi>
+            </p>
+            <p>In which Declaration of the Apoſtle, we have two Things obſervable.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> The Chriſtian's myſtical <hi>
+                     <g ref="char:V">Ʋ</g>nion.</hi> All that in every place profeſs his Name, how many ſoever they be, are parts of Chriſt's Body, <hi>being many they are one Body in Chriſt.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> Their Spiritual <hi>Communion</hi> reſulting from it; all being one and the ſame Corporation, they ought to live in mutual Conjunction, Cor<g ref="char:EOLhyphen"/>reſpondence, and Fellowſhip; every one as <hi>Mem<g ref="char:EOLhyphen"/>bers one of another.</hi>
+               </item>
+            </list>
+            <p>I begin with the firſt of theſe, The Chriſtian's myſtical <hi>
+                  <g ref="char:V">Ʋ</g>nion.</hi> That all that in every place pro<g ref="char:EOLhyphen"/>feſs his Name, how many ſoever they be, are Parts of Chriſt's Body, <hi>being many they are one Body in Chriſt.</hi>
+            </p>
+            <p>As Chriſt hath a <hi>Natural</hi> Body, that which was conceived by the Holy Ghoſt, born of the Virgin <hi>Mary,</hi> crucified upon the Croſs, and is now aſcended into Heaven; ſo, he hath a <hi>Myſtical</hi> one too: and this is an Aggregation or Collection of all throughout the face of the Earth, who embrace the Faith he hath delivered. As many Officers and Soldiers are but one Army, many Houſes and
+<pb n="5" facs="tcp:93639:6"/>Streets but one City, many Pariſhes and Counties but one Kingdom; ſo as many as profeſs Chriſtia<g ref="char:EOLhyphen"/>nity are but <hi>one Body</hi> in him: ſo they are called the <hi>Body of Chriſt,</hi> Epheſ. 4.12.</p>
+            <p>True, we read in the Scriptures of <hi>Churches</hi> in the <hi>Plural</hi> Number: the <hi>Churches</hi> of <hi>Judaea,</hi> the <hi>Churches</hi> of <hi>Samaria,</hi> the <hi>Churches</hi> of <hi>Aſia,</hi> and the like, ſpeaking as of <hi>many:</hi> but it is not unworthy your obſerving, that our Saviour in his Promiſe hath it in the <hi>Singular,</hi> Mat. 16.18. <hi>
+                  <g ref="char:V">Ʋ</g>pon this Rock I will build my Church,</hi> ſpeaking of it as of <hi>one.</hi> And why ſo, but to ſhow us, that tho' they are ſeveral in reſpect of their diſtant ſituation, ſeve<g ref="char:EOLhyphen"/>ral in reſpect of their circumſtantial conſtitution; yet they are not ſeveral, in reſpect of Chriſt's great Intention, or their own ſpecifick Nature, but have the ſame dependance upon, and relation to, their Head and one another, as Parts have to their Whole; ſo that how many ſoever they be nomi<g ref="char:EOLhyphen"/>nally, they are one really, <hi>one Body in Chriſt.</hi>
+            </p>
+            <p>There are Three things that ſpeak, and ought to make us ſo.</p>
+            <p>Firſt, <hi>One</hi> we are in our Original ſacred Deſig<g ref="char:EOLhyphen"/>nation. As Chriſtians we are all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parts of one and the ſame Building whereof Chriſt Jeſus is the corner ſtone, 1 <hi>Pet.</hi> 2.6. we are all Branches of
+<pb n="6" facs="tcp:93639:7"/>one and the ſame Vine whereof Chriſt Jeſus is the root, <hi>John</hi> 15.1. we are all Servants in one and the ſame Houſhold whereof Chriſt Jeſus is the Maſter, <hi>Gal.</hi> 6.10. we are all Sheep of one and the ſame Fold whereof Chriſt Jeſus is the <hi>Shep<g ref="char:EOLhyphen"/>herd,</hi> Heb. 13.20. we are all Subjects of one and the ſame Kingdom whereof Chriſt Jeſus is the Prince, <hi>Iſaiah</hi> 9.6. Hence the Apoſtle taketh his topick of Addreſs to the diſſenting <hi>Corinthians,</hi> 1 <hi>Cor.</hi> 1.10. <hi>I beſeech you, Brethren, by the Name of our Lord Jeſus Chriſt, that ye all ſpeak the ſame thing, that there be no Diviſions among you,</hi> &amp;c. <hi>by the Name of our Lord Jeſus Chriſt?</hi> Why, this was the Pretence for all their Diviſions and Separations, they were the <hi>Truths</hi> of <hi>Chriſt,</hi> the <hi>Ordinances</hi> of <hi>Chriſt,</hi> the <hi>Miniſters</hi> of <hi>Chriſt,</hi> that they contended for: yes, ſo Men may talk to others, and it may be flatter themſelves; but there is no Name un<g ref="char:EOLhyphen"/>der Heaven can be pleaded for quarrels, more improperly and indecently among Chriſtians in<g ref="char:EOLhyphen"/>deed; for if we are ſuch, as Lines of the ſame Circle, whatſoever diſtance there is in the Cir<g ref="char:EOLhyphen"/>cumference <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all meet and unite in him, as in our common centre.</p>
+            <p>
+               <hi>Moſes</hi> ſeemed to think it enough to make the two <hi>Iſraelites</hi> that were ſtriving, at one again; to
+<pb n="7" facs="tcp:93639:7"/>ſay to them, <hi>Sirs, ye are Brethren.</hi> Here is that and a great deal more: we are not only of one Family, but one Body; and if the Spirit which giveth Life be in us, we ſhall be ſo far any of us from angry rending our ſelves from the reſt, that it will not be without feeling real Grief and Pain, when any other Parts do. Who can loſe a Limb and not be affected with it? Now all that call upon the Name of Jeſus, being our fellow-Members we ſhould be as tender of, and as concerned for them.</p>
+            <p>This Myſtery <hi>Athanaſius</hi> telleth us our Bleſſed Lord did Figure by the Death he was put to.<note place="margin">
+                  <hi>Athan.</hi> De Incarnatione Verbi Dei.</note> He was not (ſaith he) Beheaded as <hi>John</hi> the Baptiſt, nor ſawn aſunder as the Prophet <hi>Eſay:</hi> no, not a Bone of him was broken, not a Member ſevered; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſhow the intended and neceſſary adherence and conjunction, that was for ever to be preſerved and maintained among all his faithful Followers, not only with him, but with one another too. And <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat is a firſt thing wherein being many we are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, one in our Original ſacred Deſignation.</p>
+            <p>Secondly, One we are in the <hi>Fundamentals and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſentials of our Profeſſion.</hi> It is a great Miſtake to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ink that every Difference in Religion is a diffe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt Religion, 1 <hi>Cor.</hi> 3.11, 12. the Apoſtle care<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lly diſtinguiſheth between the Foundation and
+<pb n="8" facs="tcp:93639:8"/>that which is Built upon it. Some parts of the Superſtructure may be of richer Materials, <hi>Gold, Silver, Precious Stone:</hi> others of baſer and much ſlighter, <hi>Wood, Hay, Stubble,</hi> and yet the Founda<g ref="char:EOLhyphen"/>tion the ſame to both. To ſtrip his meaning from the Metaphor it is wrapt in, ſome Churches are more ſound and pure, others more corrupt and ſuperſtitious in their Doctrines: and as in materia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Buildings, ſome of the Rooms may be dark<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> than others, yet all of them belong to one Houſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo is it in this Spiritual Building too; all have no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> equal light, and yet as St. <hi>Paul</hi> phraſeth it, <hi>Eph. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 20. All <hi>built upon the Foundation of the Apoſtle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Prophets, Jeſus Chriſt himſelf being the chi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> corner Stone, in whom all the Building fitly fram<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> together, groweth up an holy Temple to the Lord.</hi>
+            </p>
+            <p>Should we take a ſurvey of the diſtinct Profe<g ref="char:EOLunhyphen"/>ſions of Chriſtianity, that have any noted Nam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the ſeveral Quarters of the World; as thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Roman Catholick</hi> in the Weſt, of the <hi>Aethiopi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in the South, of the <hi>Greeks</hi> in the Eaſt, of the <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>teſtant</hi> here in the North: and laying aſide <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe Points wherein they differ from one an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther; gather into one Body but thoſe Arti<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> wherein they univerſally agree: we ſhall find e<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in thoſe Propoſitions ſo much Truth is contain<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="9" facs="tcp:93639:8"/>as being joyned with a ſincere and Pious Life, the ſober and moderate of all Denominations grant ſufficient to Salvation.</p>
+            <p>For tho ſome hot heads and narrow minds of all perſwaſions, lay ſuch ſtreſs upon their particu<g ref="char:EOLhyphen"/>lar tenents, as to be ready to damn all that come not punctually up to them; this exceſs of zeal is only perſonal: no Church in the World (bate that of <hi>Rome</hi>) is ſo uncharitable in her cenſures. So far was the Ancient Church from it, that all the <hi>Credenda</hi> ſhe required of them ſhe admitted to her Communion, for ſome Ages, was only an acknowledgment of the Articles of the <hi>Creed</hi> we call the <hi>Apoſtles,</hi> and preſſed no more on them: and tho all Churches ſince have added others; ſome more, ſome leſs: it appeareth by their not judging one another, about receiving or not receiving them, this is not ſo much from any opinion they have of the abſolute neceſſity of holding thoſe Articles, as of the abſolute neceſſity of preſerving peace among their own members, who were like to make diſturbances about them.</p>
+            <p>Now ſo far all the Chriſtians that are, are a<g ref="char:EOLhyphen"/>greed, even they who have ſuper-induced do<g ref="char:EOLhyphen"/>ctrines ſcarce conſiſtent with theſe (to give them their due) retain theſe, and tho we cannot clear
+<pb n="8" facs="tcp:93639:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:93639:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:93639:10"/>them from contradicting themſelves, yet we muſt from denying any of theſe principles; ſo that our heats about matters of Religion, are ſomething like our hearts about matters of the World; not ſo much for the neceſſaries of life which we are eaſily ſupplied with; as the unneceſſaries of fancy, which our Reaſon telleth us, we may be happy enough tho we never have. Our contentions are not about the great vital truths of Chriſtianity; hereunto we have all attained; but ſome additio<g ref="char:EOLhyphen"/>nal notions, which, if they ſhould be true, our Conſciences tell us, men may be ſaved, tho they don't believe; and that is another reſpect in which being many, we are <hi>one; One,</hi> in the funda<g ref="char:EOLhyphen"/>mentals and eſſentials of our profeſſion.</p>
+            <p>Once more <hi>One</hi> we are in <hi>our only juſtifiable and real intereſts.</hi> Intereſt is the mighty make-bate of mankind, more ſucceſsful than whiſpering in ſeparating chief friends. Intereſt is deaf as the Adder to the faireſt overtures of Peace, and will carry off the ſtrongeſt obligations to unity, eaſily as <hi>Sampſon</hi> did the Gates of <hi>Gaza:</hi> Intereſt will ſet the Son at variance againſt the Father, and the Father againſt the Son, the Mother againſt the Daughter, and the Daughter againſt the Mo<g ref="char:EOLhyphen"/>ther. But there is nothing of that to interpoſe
+<pb n="11" facs="tcp:93639:10"/>and make miſchief here. For what is the <hi>intereſt</hi> of any <hi>Chriſtian,</hi> that is not the <hi>intereſt</hi> of all? The glory of God, the Salvation of our Souls, the Edification of the Church, theſe are all the inte<g ref="char:EOLhyphen"/>reſts of <hi>Chriſtians,</hi> conſidered as Chriſtians; and theſe are common to us all equally.</p>
+            <p>It is pretended on all ſides, that theſe are the only things they aim at, that it is the conſideration of theſe maketh them ſtand upon their points ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tiffly, and contend ſo earneſtly each againſt their oppoſites: but who that reflecteth either upon the matters moſt conteſted, or the manner of our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onteſting them, can bring himſelf to credit it?</p>
+            <p>If this were really ſo, that the deſign on all hands were only, that Religion and Devotion, Vertue and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>obriety might be advanced, &amp; flouriſh in the world; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat God might be more honoured upon earth, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſinners kept from periſhing everlaſtingly; our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eal, doubtleſs, would be hotter againſt vices of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l ſorts, which men can help, than errors, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be, they cannot: and where-ever faith <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d good works are maintained and regarded in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e main, tho there are viſible defects and allays, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey would be compaſſionately and prudently bore <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th, for the good that is found in them.</p>
+            <p>
+               <pb n="12" facs="tcp:93639:11"/>
+This was S. <hi>Paul</hi>'s both judgment and practice, in a caſe, as obnoxious it may be, as any can be inſtanced in. There were a ſort of men, who not from any concern for the propagation of the Go<g ref="char:EOLhyphen"/>ſpel, but ſpite at his reputation among the peo<g ref="char:EOLhyphen"/>ple, to leſſen and ruine both it and him; ſet up in oppoſition, heading any diſorderly and diſcon<g ref="char:EOLhyphen"/>tented meetings. Now, how doth he take it? tho he himſelf ſaw well enough through the wretched deſigns of the ring-leaders, the vile and ſelfiſh ends they had in it; yet inaſmuch as it might have ſome good effects upon ſeveral poor creatures that did not, he is ſo far from being diſturbed, that he declareth himſelf well pleaſed with it, <hi>Phil.</hi> 1.15, 16, 17, 18. <hi>Some</hi> (ſaith he) <hi>preach Chriſt even of envy and ſtrife, of contention, not ſincerely. What then? notwithſtanding every way, whether in pretence, or in truth, Chriſt is preached, and I therein do rejoyce, yea and will rejoyce.</hi>
+            </p>
+            <p>I do not doubt but they are much in the wrong who uſe this Text as an argument for all ſorts of Preachers among us now; there is not the ſame reaſon for it where the Goſpel is planted, as where it was to be planted, in a ſettled Church, as in a Heathen Country. Yet this I ſay, if the ſame Spirit that dwelt in him, dwell in us; where th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="13" facs="tcp:93639:11"/>good that cometh by it, will but preponderate the evil, we ſhall not be otherwiſe affected.</p>
+            <p>It was a notable paſſage of my Lord <hi>Bacon,</hi> that If Divines could but agree upon the expoſition of thoſe two ſayings of our Saviour,<note place="margin">Mat. 12.30.</note> 
+               <hi>he that is not with me is againſt me,</hi> and<note place="margin">Mark 9.40.</note> and <hi>he that is not againſt us is on our part,</hi> it might well put an end to all the controverſies among Chriſtians: certain it is, it ought. For as whatever doth more diſhonour to Chriſt, than ſervice, we are like concerned to depreſs: ſo whatever doth more ſervice to him, than diſhonour, we are alike concerned to pro<g ref="char:EOLhyphen"/>mote. If we do not, thinking men will be apt to conclude, it is nothing but our different inte<g ref="char:EOLhyphen"/>reſts as <hi>men,</hi> is at the bottom of it. For that is another thing, wherein as <hi>Chriſtians</hi> being many, we are <hi>one; one in our only juſtifiable and real in<g ref="char:EOLhyphen"/>tereſts,</hi> that we ought to look after.</p>
+            <p>And this is all I ſhall ſay to the firſt part of the Text, the <hi>Chriſtians myſtical union;</hi> that all that in every place profeſs his name, how many ſoever they be, are <hi>one body in Chriſt!</hi> By which we ſee, what apprehenſions we ſhould have of, and what behaviour to, all thoſe of our Religion, even tho they differ from us.</p>
+            <p>
+               <pb n="14" facs="tcp:93639:12"/>
+The other obſervable I am now to proceed to, is the means to remedy the differences them<g ref="char:EOLhyphen"/>ſelves; and that is by maintaining ſuch <hi>communi<g ref="char:EOLhyphen"/>on</hi> among our ſelves as properly reſuleth from this <hi>
+                  <g ref="char:V">Ʋ</g>nion.</hi> Being one and the ſame corporati<g ref="char:EOLhyphen"/>on, we ought to live in mutual conjunction, cor<g ref="char:EOLhyphen"/>reſpondence, and fellowſhip, every one as mem<g ref="char:EOLhyphen"/>bers one of another.</p>
+            <p>This Chriſtians formerly were ſo very ſenſible of, that they did not think it ſufficient, that each particular Church ſhould be at unity within it ſelf only, but they wiſely contrived that all the particulars ſhould ſo agree with one another too, as to make up one harmonious Catholick; and thus by Eccleſiaſtical Canons they ordained it:<note place="margin">Spalat. de Re<g ref="char:EOLhyphen"/>put. l. <hi>7.</hi> c. <hi>10.</hi>
+               </note> That all Presbyters ſhould give account of the ſtate of their ſeveral flocks to their Biſhops, the Biſhops of their ſeveral Dioceſſes to their Metropolitans, the Metropolitans of their ſeveral Provinces to their Patriarchs, the Patriarchs of all theſe, and of themſelves too, to one another. Thus as much as in them lay, they took care; every one for all, and all for every one, that there might be no Schiſm in the body. And however it is now diſ<g ref="char:EOLhyphen"/>uſed, and as the preſent ſtate of the World is, in great part unpracticable; yet there is the ſame
+<pb n="15" facs="tcp:93639:12"/>reaſon for it ſtill. As we ſtand in the ſame rela<g ref="char:EOLhyphen"/>tion to Chriſt as the Chriſtians of former ages, ſo we do to one another too; and ought to be as ſollicitous to preſerve it.</p>
+            <p>It is a Duty, the peace and welfare, quiet and good order, of Maſters and their Families, Mini<g ref="char:EOLhyphen"/>ſters and their Pariſhes, People and their Neigh<g ref="char:EOLhyphen"/>bours, Princes and their Subjects, yea, Princes and Princes, doth very highly depend upon. Few here can be of ſo little obſervation, as not to be ſenſible of the inconveniencies, the fewds, the di<g ref="char:EOLhyphen"/>ſtractions, the miſchiefs, that the rejecting and condemning each others communion, hath been either the cauſe, or the occaſion, or at leaſt the pretence of, among every one of theſe.</p>
+            <p>Seeing then 'tis of ſuch conſequence, not only to private perſons, but the publick too; ſure it behoveth every one in their ſtations, to look that none of theſe offences come by them, but that they ſo behave themſelves towards all in every place, that call upon the name of the Lord Jeſus, both theirs and ours, as to their fellow members.</p>
+            <p>This all will allow a deſirable thing; but the great queſtion is, How it is poſſible? How we can hold communion with all other Chriſtians? This is neceſſary to be enquired into, and reſolved particularly in theſe caſes.</p>
+            <list>
+               <pb n="16" facs="tcp:93639:13"/>
+               <item>Firſt, in the caſe of that particular Church, which each perſon doth regularly belong to, how he is to behave himſelf as a member of that?</item>
+               <item>Secondly, in the caſe of other Churches diſtant from, and independent on us, how we ſhould be<g ref="char:EOLhyphen"/>have our ſelves as Members of them?</item>
+               <item>Thirdly, in the caſe of ſuch Chriſtians, as upon diſſatisfaction divide from, and will not joyn with us, how we ſhould behave our ſelves towards them?</item>
+            </list>
+            <p>Theſe comprehending the moſt conſiderable difficulties that can ariſe about this duty, I will ſpeak diſtinctly of them.</p>
+            <p>The firſt caſe to be reſolved is, about the par<g ref="char:EOLhyphen"/>ticular Church, which any perſon doth regularly belong to, how he is to behave himſelf as a mem<g ref="char:EOLhyphen"/>ber of that? That I call every mans parti<g ref="char:EOLhyphen"/>cular Church, not which it may be he himſelf doth call ſo, but which the lawful Authority of the Country where he liveth, hath made ſo. This, (if he may acceptably ſerve God, and fi<g ref="char:EOLhyphen"/>nally ſave his Soul in) he is to joyn himſelf to, owning the Guides, partaking the Ordinances, obſerving the Conſtitutions of it, or he doth no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> walk orderly.</p>
+            <p>
+               <pb n="17" facs="tcp:93639:13"/>
+Too many well-meaning people among us, are not ſo ſenſible of this as they ought, but think 'tis no matter tho' they do not, that tho' they are obliged to hear and pray, and receive; yet they have no more obligation to perform theſe duties there, than with any other Aſſembly of Chriſtians, that they have as good, or it may be, better opinion of.</p>
+            <p>For ſuch to ſay that they agree with the Church in <hi>Doctrinals,</hi> it is only upon account of <hi>Ceremo<g ref="char:EOLhyphen"/>nies,</hi> that they ſeparate I needs muſt ſay, ſeemeth to me ſo far from excuſing the thing, it really maketh it worſe. For though it is our Duty to ſeparate from a Church, where ſhe is corrupt in her Doctrines, and maketh <hi>void the Commandments</hi> of God by <hi>her Traditions:</hi> Yet where it is not ſo much as pretended to be ſo, to do it meerly up<g ref="char:EOLhyphen"/>on the ſcore of ceremony, is not to be defended. For where? When could ſuch Perſons have liv'd? In what Place? In what Age? In what Eſta<g ref="char:EOLhyphen"/>bliſhed Church that now is? Or heretofore hath been? That upon this Principle they muſt not have divided from? There is none but have de<g ref="char:EOLhyphen"/>termined ſomething or other of this kind. It is granted, that every Church in determining and appointing them, ought to have a careful, tender,
+<pb n="18" facs="tcp:93639:14"/>prudent conſideration of the temper, the weakneſs, the circumſtances of them ſhe determineth and appointeth them for, but if ſhe ſhould have been faulty in it, and hath not; it is a greater fault, rather to break her peace, than bear with them.</p>
+            <p>And therefore tho the <hi>Recuſants</hi> here in <hi>England</hi> are greater <hi>Schiſmaticks</hi> than any other <hi>Separatiſts</hi> among us; becauſe whereas others for the moſt part only forbear communion with our Church, theſe condemn the Church it ſelf: yet neither can any of the other that ſeparate well clear them<g ref="char:EOLhyphen"/>ſelves from being ſuch; it being the ſtrict and proper notion of Schiſm for Perſons cauſeleſly to rend themſelves from that particular Church whereof <hi>de jure</hi> they are Members.</p>
+            <p>How they under whoſe Spiritual Conduct ſuch Perſons put themſelves, can ſatisfie their own Minds in entertaining them, I know not. This I am ſure of, it is more than the <hi>Pope</hi> himſelf an<g ref="char:EOLhyphen"/>ciently would take upon him. It is a famous An<g ref="char:EOLhyphen"/>ſwer which one of them geve to <hi>Marcion</hi> when in oppoſition to his own Church he came to <hi>Rome,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Epiphan. adv. Haer. Vol. <hi>1.</hi> Com. <hi>3.</hi> Haer. <hi>42.</hi>
+               </note> and ſued to be admitted into Communion there, that he could not do it, without the conſent of his venerable Father, between whom and him there was one Faith.</p>
+            <p>
+               <pb n="19" facs="tcp:93639:14"/>
+The 12th Canon among the Apoſtolick, forbid<g ref="char:EOLhyphen"/>ding under the Penalty of Excommunication, the receiving any under the Cenſures of <hi>their own Church,</hi> without Letters Commendatory, was con<g ref="char:EOLhyphen"/>firmed by the firſt famous Council of <hi>Nice,</hi>
+               <note place="margin">
+                  <hi>Canon</hi> 5th. Conc. Nit.</note> and the Biſhop of <hi>Rome</hi> then thought himſelf no more exempted from it, than the reſt of his Brethren: And tho now for a long while by a diſpenſing Power they have acted otherwiſe, it is an inſolent trampling upon that Rule their Predeceſſors walked by. Now they that do the ſame thing, how op<g ref="char:EOLhyphen"/>poſite ſoever they may be to the Pope in other Matters, in this his Uſurpation agree with him, and can no more be juſtified in it than he; being no more able to ſhow by <hi>what Authority they do theſe things.</hi> I might confront ſuch Perſons Pra<g ref="char:EOLhyphen"/>ctice with their Judgment, when in other Circum<g ref="char:EOLhyphen"/>ſtances, but I ſpare them. I will only ſay, it is an inlet to Diſorder. Now <hi>God is not the Author of Confuſion, but of Peace, as in all the Churches of the Saints.</hi> And ſo much for the firſt caſe, how far Chriſtians are to behave themſelves as Members of that particular Church they regularly be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong to.</p>
+            <p>The ſecond is the caſe of other Churches di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tant from, and independent on us; how we ſhould
+<pb n="20" facs="tcp:93639:15"/>behave our ſelves as Members of them? St. <hi>Paul Eph.</hi> 4.4, 5, 6. telleth us by what ſacred Bands and Ligaments we are knit and faſtned to all theſe. <hi>There is</hi> (ſaith he) <hi>one Body and one Spirit, one Hope of your Calling, one Lord, one Faith, one Bap<g ref="char:EOLhyphen"/>tiſm, one God and Father of all, who is above all, and through all, and in you all.</hi> Theſe are the ſame to all of us. And therefore, tho there be much variety in their <hi>Rituals,</hi> in their <hi>Diſcipline,</hi> yea, even <hi>Doctrines</hi> of inferiour Nature; every Church ought mutually to allow and bear them in each other, without cenſuring or reproaching one another concerning them.</p>
+            <p>They who were ſo ſuperciliouſly Arrogant as to condemn all other Churches, that did not in all things exactly chime in with them, ſuch as the <hi>Novatians, Donatiſts, Meletians, Luciferians,</hi> &amp; the Fathers inveigh againſt as no Chriſtians for their ſo unreaſonable raſh uncharitableneſs.</p>
+            <p>The <hi>Romaniſts</hi> at this day do all this, and yet nothing will ſerve them but the Name of <hi>Catho<g ref="char:EOLhyphen"/>licks;</hi> but ſure it is the abſurdeſt one they could have took upon them. For Catholick is but ano<g ref="char:EOLhyphen"/>ther word for <hi>
+                  <g ref="char:V">Ʋ</g>niverſal,</hi> but theſe Anathematize and would extirpate all that ſubmit not to the <hi>particular,</hi> who (notwithſtanding all their boaſt
+<pb n="21" facs="tcp:93639:15"/>of Univerſality) are in truth the major part of <hi>Chriſtendom.</hi>
+            </p>
+            <p>They tell us by their Emiſſaries we may, if we will, be reconciled; they are contented to be at peace with us. So did<note n="*" place="margin">1 <hi>Sam.</hi> 11.2.</note> 
+               <hi>Nahaſh</hi> condeſcend to the men of <hi>Jabeſh Gilead,</hi> and vouchſafe to ſigni<g ref="char:EOLhyphen"/>fie the ſame thing to them; and in earneſt, his were the civiller, fairer terms of the two: He would have been contented, if they would have parted but with one of their Eyes; but theſe will not, except we part with both ours, and all our other Senſes.</p>
+            <p>Chriſtians of old did not deal ſo with one ano<g ref="char:EOLhyphen"/>ther: Every Church then, did not only think her<g ref="char:EOLhyphen"/>ſelf obliged to a charitable opinion of every other <hi>holding the head;</hi> but as they had opportunity, had actual communion with them. St. <hi>Chryſoſtom</hi> complaineth of <hi>Theophilus</hi> Biſhop of <hi>Alexandria,</hi> becauſe when he came to <hi>Conſtantinople</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſ Ep. Innoc.</note>, he re<g ref="char:EOLhyphen"/>paired not to the congregation after the uſual manner to their Sermons, Prayers and Sacraments. And <hi>Euſebius</hi> taketh notice, that <hi>Polycarp</hi> when he came to <hi>Rome,</hi> tho' there were ſome other mat<g ref="char:EOLhyphen"/>ters beſides the controverſie of <hi>Eaſter,</hi> they diſ<g ref="char:EOLhyphen"/>fered in,<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Euſeb. Ec. Hiſt. l. <hi>5.</hi> c. <hi>24.</hi>
+               </note> communicated with <hi>Anicetus.</hi> And it was the general way when they were in other Coun<g ref="char:EOLhyphen"/>tries
+<pb n="22" facs="tcp:93639:16"/>to apply themſelves to the Churches there, and joyn in their Worſhip with them.</p>
+            <p>Beſides theſe occaſional and accidental, there, are other Duties this Spiritual Relation obligeth us to always. Theſe are to pray one for ano<g ref="char:EOLhyphen"/>ther, be tender one of another, ſympathize one with another, be helpful one to another: If grieved to comfort them, if in want to relieve them, if in danger to defend them, if perſecuted to ſuccour them, as far as is in our power.</p>
+            <p>I hope I need not preſs this on any of ours. If we, who by the bleſſing of God have ſo lately reaped the benefit of theſe Duties from others, ſhould be backward upon like occaſion, to expreſs them towards others, God and Man would re<g ref="char:EOLhyphen"/>proach us for Diſingenuous. When we ſee the Members of Chriſt ſo dealt with, as many thou<g ref="char:EOLhyphen"/>ſands have been both in <hi>France</hi> and <hi>Ireland;</hi> ſo en<g ref="char:EOLhyphen"/>dangered, as all the Proteſtants in the Neighbour Nations at this day are, ſhould we ſhut up our bowels of compaſſion from them, with what face could we pretend to be of the Body? If we truly are, it will be impoſſible to be unconcerned at their troubles and afflictions; but we ſhall <hi>remem<g ref="char:EOLhyphen"/>ber them that are in Bonds as bound with them, and them that ſuffer adverſity, as we our ſelves being alſo
+<pb n="23" facs="tcp:93639:16"/>in the body;</hi> be <hi>weak when they are weak,</hi> and <hi>burn when they are offended.</hi> That is the ſecond Caſe, how we ſhould behave our ſelves as members of the other Churches, diſtant from, and indepen<g ref="char:EOLhyphen"/>dent on us.</p>
+            <p>There remaineth the third, and that is relating to ſuch Chriſtians as upon diſſatisfaction divide, and will not joyn with us, how we ſhould carry our ſelves towards them? And this hath more difficulty in it, than either of the other; hard to be ſpoken of without extremes or offence; but when there are ſuch numbers of theſe among us, 'tis fit people ſhould know what they ought to do in it.</p>
+            <p>It is enough to ſtartle a very confident man to hear what the Fathers of the Church have decla<g ref="char:EOLhyphen"/>red about this matter. Conſidering the ill effects and conſequences of Schiſm, they have pronoun<g ref="char:EOLhyphen"/>ced it as heinous a ſin as any whatſoever.<note n="a" place="margin">
+                  <hi>Vide Euſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Eccl. Hiſt. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>c.</hi> 49.</note> 
+               <hi>Diony<g ref="char:EOLhyphen"/>ſius</hi> in his Epiſtle to <hi>Novatus</hi> ſaith <hi>Idolatry</hi> is not worſe.<note n="b" place="margin">Deus pro n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lectu manda<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> iratus eſt ir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> magna &amp; q<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in Sacrilego<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; parricid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non fecerat in Schiſmatico<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cit. Optat. <hi>l.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Optatus</hi> not <hi>Sacriledge</hi> or <hi>Murther:</hi> and<note n="c" place="margin">Unde Joha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nes ex nobis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>trant, ſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> evant ex no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> non ait quo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> exeundo alie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> facti ſunt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quod alieni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> erant cos e<g ref="char:EOLhyphen"/>declaravit. Aug. de Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 19.</note> St. <hi>Auguſtine</hi> upon occaſion of that paſſage out of St. <hi>John,</hi> they <hi>went out from us, but were not of us,</hi> declareth that they who are guilty of it are not to be looked upon as <hi>Chriſtians.</hi>
+            </p>
+            <p>
+               <pb n="24" facs="tcp:93639:17"/>
+This ſurely muſt be underſtood only of ſuch as hypocritically and maliciouſly make breaches and diſturbances in a Church, to revenge or advance themſelves by the ruine of it; for ſuch 'tis not eaſie to find expreſſions that are too ſevere or ag<g ref="char:EOLhyphen"/>gravating: But God forbid it ſhould be ſo with all who with-hold or withdraw from communion with a Church; of ſome we muſt <hi>have compaſſion, ma<g ref="char:EOLhyphen"/>king a difference.</hi>
+            </p>
+            <p>There are many (no doubt) who do this in the ſimplicity of their hearts, not apprehending the evil of it; for ſuch, as God doth, ſo we ought to make allowances: not rigorouſly treating, but <hi>in meekneſs inſtructing them that ſo oppoſe themſelves.</hi> The Apoſtle ſpeaking of ſuch as did not <hi>obey his word,</hi> 2 <hi>Theſſ.</hi> 3. and that not in matters of indif<g ref="char:EOLhyphen"/>ferent nature, but purely moral: tho he biddeth them <hi>note that man, and have no company with him, that he may be aſhamed;</hi> giveth this caution along with it, <hi>v.</hi> 15. <hi>yet count him not as an enemy, but admoniſh him as a Brother.</hi> And if that be the rule to be obſerved by us towards thoſe that are looſe and licentious, doubtleſs it will hold much ſtronger, towards thoſe that are only Weak and Scrupulous.</p>
+            <p>This is the likelieſt way to gain them; for look as gravely and pretend as highly as they will,
+<pb n="25" facs="tcp:93639:17"/>people will never believe they have any kindneſ for their Souls, whom they find ſhowing ſpight to their perſons.</p>
+            <p>St. <hi>Paul</hi> having opened at large the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of <hi>Chriſtians,</hi> 1 <hi>Cor.</hi> 12. and in the laſt verſe of that Chapter exhorted them to <hi>covet earneſtly the beſt gifts</hi> that might promote that glorious end; ad<g ref="char:EOLhyphen"/>deth in the laſt words of it, <hi>yet ſhow I unto you a more excellent way.</hi> What? better than the beſt? A more excellent way than what? <hi>v.</hi> 25. he telleth us, than Apoſtles, than Prophets, than Teachers, than Governments, than Tongues, <hi>&amp;c.</hi> he would ſhew them a more excellent way for keeping the unity of the body, than any, than all of them; and that is <hi>Charity</hi> and the grace of <hi>Love:</hi> which he diſcourſeth of, and magnifieth throughout the 13th Chapter, where he giveth us to underſtand, that without this, all extraordinary men, all mi<g ref="char:EOLhyphen"/>raculous gifts, all abilities to preach, all Eccleſi<g ref="char:EOLhyphen"/>aſtical power, all prudence in government, (tho. uſeful in themſelves, and much contributing to it) would prove ineffectual. But where Charity and Love is, there we ſhall agree even when we differ; and if we are not ſo happy, as in nearneſs, yet at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt in tenderneſs, we ſhall be as <hi>members one of another.</hi>
+            </p>
+            <p>
+               <pb n="26" facs="tcp:93639:18"/>
+Of the things we have ſpoken this is the ſumm.</p>
+            <p>That all that in every place call upon the name of Chriſt, being but <hi>one body in him;</hi> having the ſame relation to him their head, the ſame funda<g ref="char:EOLhyphen"/>mentals of their common Faith, the ſame holy ends and intereſts to promote: ſhould not let leſſer matters hinder them from living <hi>as members one of another.</hi>
+            </p>
+            <p>Now inaſmuch as to be a Member of the Ca<g ref="char:EOLhyphen"/>tholick, it is neceſſary to be of ſome particular Church; if he may acceptably ſerve God and finally ſave his Soul in it, every Perſon ought for peace and order ſake to live in the Communion of that Church where the providence of God hath plac'd him, and not for every diſlike, de<g ref="char:EOLhyphen"/>fect, or blemiſh to depart from it.</p>
+            <p>Nor is it enough that we do this with that ſin<g ref="char:EOLhyphen"/>gle Church where we live; but inaſmuch as all other Chriſtian Churches abroad belong to the ſame Saviour; tho' they may differ in <hi>Rituals,</hi> in <hi>Diſcipline,</hi> yea in ſome <hi>Doctrines</hi> of inferiour na<g ref="char:EOLhyphen"/>ture from us; yet we ſhould all mutually own and acknowledge every one the other, as far as they own and acknowledge Chriſt.</p>
+            <p>And as for thoſe that ſeparate and divide them<g ref="char:EOLhyphen"/>ſelves; if they do it, not Hypocritically and Ma<g ref="char:EOLhyphen"/>liciouſly,
+<pb n="27" facs="tcp:93639:18"/>with deſign to deſtroy the Body by tear<g ref="char:EOLhyphen"/>ing it ſo in pieces; but in the ſimplicity of their hearts, and real perſwaſion of their conſciences: we ſhould not any way unneceſſarily offend, grieve or provoke: but ſhow them as much compaſſion; forbearance and condeſcention, as is conſiſtent with the ſafety and welfare of the Body.</p>
+            <p>All I ſhall add is but this one word relating to them we laſt mentioned. And that is, that tho' Chriſtians ſhould thus behave themſelves towards thoſe that ſo ſeparate and divide from them; yet cauſeleſs ſeparation and diviſion is a great offence againſt the law of Chriſt. I would not have this ſo miſconſtrued, as if ſpoken from any repining at the indulgence, that is now granted the ſeveral Diſſen<g ref="char:EOLhyphen"/>ters among us. For tho when it was an <hi>illegal ſnare,</hi> the Clergy of this Church withſtood it, with the hazard of their all, yet now it is a <hi>legal eaſe,</hi> I know none of them that are diſſatisfied with it.</p>
+            <p>That which I mention this for, is only to admo<g ref="char:EOLhyphen"/>niſh ſuch Perſons, and put them in mind that now they have <hi>Liberty of Conſcience,</hi> they ſhould make <hi>Conſcience of their Liberty.</hi> Not preſume and en<g ref="char:EOLhyphen"/>courage themſelves in it, becauſe the Laws of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and are ſo favourable to inflict no Penalties upon them for it. Theſe do not undertake to juſtifie
+<pb n="28" facs="tcp:93639:19"/>the thing, as if it were no Sin; only forbear Judge in it, and leave us wholly to the Law <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt, which is immutable and not to be repeal Seeing then we are all ſo far remitted to this; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us all make this our Rule: and in the ſerious co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſideration of what this enjoyneth us, all fol<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the things that make for peace, and the <hi>God peace ſhall be with us.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p n="1">1. A Critical Hiſtory of the Text of the New Teſtam<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> where is firmly Eſtabliſht the Truths of thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in which the Foundation of Chriſtian Religion is laid; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Father <hi>Simon.</hi>
+            </p>
+            <p n="2">2. Popiſh Treachery, or a Short and New Account of Horrid Cruelties Exerciſed on the Proteſtants in <hi>France</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing a true Proſpect of what is to be Expected from the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Solemn Promiſes of <hi>Roman Catholick</hi> Princes: In a Letter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Gentleman of that Nation, to one in <hi>England.</hi>
+            </p>
+            <p n="3">3. A True Narrative of all the Proceedings againſt Lord Biſhop of <hi>London,</hi> in the Council-Chamber at <hi>White-<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> by the Lords Commiſſioners appointed by His Majeſty <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eccleſiaſtical Affairs.</p>
+            <p n="4">4. An Exact Relation of the Perſecutions, Robberies, Loſſes, ſuſtained by the Proteſtants of <hi>Killmare,</hi> in <hi>Irel<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>All lately Printed for <hi>Tho. Bennet,</hi> at the <hi>Half-Mo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> St. <hi>Paul</hi>'s Church-yard. 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
